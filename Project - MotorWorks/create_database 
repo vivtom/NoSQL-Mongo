@@ -1,3 +1,5 @@
 I manually created the database 'Automobile.' Even if I had not done that, using use Automobile would create a database called 'Automobile.
 
+To use that database : 
+
 use Automobile 
